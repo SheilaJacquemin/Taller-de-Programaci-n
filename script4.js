@@ -14,6 +14,8 @@
 // }
 
 // const pago = 15000;
+
+erftgyh
 // pagarConTarjeta(pago)
 
 
